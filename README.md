@@ -1,10 +1,11 @@
 # slim-python3
-An updated version of slim-python built using Python 3.7 and Cplex 12.10.
+An updated version of slim-python built using Python 3.7 and CPLEX 12.10.
 
 The original package was developed by Berk Ustun to which all credit goes for developing the Supersparse Linear Integer Model.
 Further details and examples can be found on his [github page](https://github.com/ustunb/slim-python)
 
 [Original paper](http://dx.doi.org/10.1007/s10994-015-5528-6)
+
 Ustun, B. and Rudin, C. (2015). Supersparse linear integer models for optimized medical scoring systems.Machine Learning, pages 1–43.
 
 ```
